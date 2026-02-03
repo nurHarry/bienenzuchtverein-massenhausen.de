@@ -13,25 +13,33 @@ export default function Page() {
         subheadline={
           <>
             <p>
-              Dem Bienenzuchtverein Massenhausen ist es ein Anliegen, dass die Bienenhaltung
-              von gut ausgebildeten Imkern mit umfassenden Kenntnissen durchgeführt wird.
-              Für Interessierte bieten wir einen Anfängerkurs für Neu- und Jungimker an.
+              Dem Bienenzuchtverein Massenhausen ist es ein wichtiges Anliegen, dass Bienen
+              verantwortungsvoll und fachlich fundiert gehalten werden. Deshalb bieten wir 
+              einen Anfängerkurs für Neu- und Jungimker an, der einen praxisnahen und soliden 
+              Einstieg in die Imkerei ermöglicht.
             </p>
             <p>
-              Begleitend zum Anfängerkurs steht auch eine begrenzte Anzahl an Plätzen für
-              das Imkern auf Probe zur Verfügung.
+              Der Imker-Neulingskurs umfasst 7 Termine und startet am 27. März 2026. Er
+              richtet sich an alle Interessierten ohne Vorkenntnisse, die sich ernsthaft
+              mit dem Thema Bienenhaltung beschäftigen möchten.
             </p>
             <p>
-              Sie wollen in die Imkerei einsteigen oder Sie sind sich noch nicht sicher, ob
-              die Bienenhaltung für Sie das richtige Hobby ist?
+              Ergänzend dazu steht eine begrenzte Anzahl an Plätzen für das Imkern auf Probe
+              zur Verfügung. Der Probeimkerkurs beginnt am 9. Mai 2026 und bietet die Möglichkeit,
+              aktiv mitzuarbeiten und den Umgang mit Bienen in der Praxis kennenzulernen.
             </p>
             <p>
-              Werden Sie Imker auf Probe und stellen Sie fest, ob Sie Spaß an der Imkerei haben.
-              Das Probeimkern in unserem Verein ermöglicht Ihnen, das Hobby Imkerei kennen zu lernen.
-              Wenn Sie glauben, dass Sie Spaß an aktivem Naturschutz durch Bienen und dem Umgang mit
-              Bienen haben oder gerne ihren eigenen Honig ernten möchten, dann werden Sie Probeimker
-              im Bienenzuchtverein Massenhausen.
+              Sie möchten in die Imkerei einsteigen oder sind noch unsicher, ob die Bienenhaltung
+              das passende Hobby für Sie ist?
+              Beim Imkern auf Probe lernen Sie die Imkerei realistisch und ohne Verpflichtung
+              kennen – von der Arbeit am Volk bis zur Honigernte.
             </p>
+            <p>
+              Wenn Sie Freude an Natur, Nachhaltigkeit und handwerklicher Tätigkeit haben, ist das
+              Probeimkern im Bienenzuchtverein Massenhausen ein idealer Weg, um herauszufinden, ob
+              die Imkerei zu Ihnen passt.
+            </p>
+
           </>
         }
         photo={
